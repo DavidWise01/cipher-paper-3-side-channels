@@ -4,6 +4,6 @@ slug  : cipher-paper-3-side-channels
 seal  : b48d52100a185ee24261553463532720ee9bf98c8065ee1ceed505ca0fb0f562
 prev  : 41bb7630404ec78c6c2e768686d5b8fe0c670e1c84b54116cb8438fe54f7b9a7
 link  : 0cce085fd2c7ed98b859c34705a21b0727d65a5b7a5a6fc3d292453ab9b9c0d7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
